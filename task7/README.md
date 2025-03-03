@@ -3,6 +3,5 @@
 
 ``` mermaid
 flowchart LR;
-    id1(Start)-->id2(Stop)
-    style id1 fill:#3f3,stroke:#333,stroke-width:4px
-    style id2 fill:#ff2400,stroke:#333,stroke-width:4px,color:#fff,stroke-dasharray: 12 5
+    subgraph
+```
