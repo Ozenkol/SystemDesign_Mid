@@ -4,5 +4,5 @@
 ``` mermaid
 flowchart LR;
     subgraph Saga
-    Payment -> Inventory -> Shipping
+    Payment --> Inventory --> Shipping
 ```
