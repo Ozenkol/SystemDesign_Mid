@@ -5,4 +5,5 @@
 flowchart LR;
     subgraph Saga
     Payment --> Inventory --> Shipping
+    end
 ```
