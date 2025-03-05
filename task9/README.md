@@ -18,7 +18,6 @@ DAU - ~30%</li>
 <h2>Draft the API specification</h2>
 <ol>
 <li>GET and DELETE /discipline/{id}</li>
-<li>GET and DELETE /discipline/{id}</li>
 </ol>
 
 <h2>Connections and processing between users and data</h2>
