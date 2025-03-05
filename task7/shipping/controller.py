@@ -1,5 +1,5 @@
-class InventoryService:
-    def inventory_payment(self, order_id, payment_data):
+class ShippingService:
+    def process_payment(self, order_id, payment_data):
         # Здесь реализация обработки платежа
         pass
 
