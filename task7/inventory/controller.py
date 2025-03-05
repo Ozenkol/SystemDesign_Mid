@@ -1,8 +1,6 @@
 class InventoryService:
-    def inventory_payment(self, order_id, payment_data):
-        # Здесь реализация обработки платежа
+    def process_inverntory(self, inventory_id, payment_data):
         pass
 
-    def rollback_payment(self, order_id):
-        # Здесь реализация отмены платежа и компенсирующих действий
+    def rollback_inventory(self, payment_id):
         pass

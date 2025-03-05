@@ -1,4 +1,8 @@
 <h1>GitHub codes for midterm</h1>
+<p>
+Student name: Tashen Temirlan<br>
+ID: 22B030593
+</p>
 <h2>Navigation to tasks</h2>
 <ol>
     <li><a href="https://github.com/Ozenkol/SystemDesign_Mid/tree/main/task7">Task 7</a></li>

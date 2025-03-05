@@ -1,8 +1,6 @@
 class ShippingService:
-    def process_payment(self, order_id, payment_data):
-        # Здесь реализация обработки платежа
+    def process_shipping(self, inventory_id, shipping_data):
         pass
 
-    def rollback_payment(self, order_id):
-        # Здесь реализация отмены платежа и компенсирующих действий
+    def rollback_shipping(self, inventory_id):
         pass
